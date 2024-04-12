@@ -1,1 +1,1 @@
-echo "This Directory refers  to all my Python learnings."
+  This Directory refers  to all my Python learnings.
